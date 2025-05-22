@@ -10,5 +10,5 @@ Im so bad at this I am often starting out fresh with a new OS :-)
 A quick bash script that installs a list of apps from a text file.
 This text file is full of common dependencies for the odd projects and toys im playing with.....it will be added to as time goes on I have no dought.
 
-##Props
+## Props
 My mum....and maybe my Dad
